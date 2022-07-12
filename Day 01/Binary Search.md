@@ -6,8 +6,8 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/3wCh8hh5/Binary-Search.png" >
-The picture source : geeks for geeks 
 </div>
+The picture source : geeks for geeks 
 
 
 
