@@ -4,7 +4,9 @@
 - If the target value is smaller ==> continue to search on the left.
 - If the target value is larger ==> continue to search on the right.
 
-<img src="https://ibb.co/XYqhzxs" >
+<div align="center">
+<img src="https://i.postimg.cc/C5XwfKXd/binary-search.jpg" >
+</div>
 
 **Algorithm**
 
