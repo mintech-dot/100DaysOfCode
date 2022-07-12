@@ -6,8 +6,10 @@
 
 <div align="center">
 <img src="https://i.postimg.cc/3wCh8hh5/Binary-Search.png" >
-</div>
 The picture source : geeks for geeks 
+</div>
+
+
 
 **Algorithm**
 
