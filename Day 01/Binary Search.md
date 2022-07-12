@@ -4,10 +4,11 @@
 - If the target value is smaller ==> continue to search on the left.
 - If the target value is larger ==> continue to search on the right.
 
+
+The picture source : geeks for geeks 
 <div align="center">
 <img src="https://i.postimg.cc/3wCh8hh5/Binary-Search.png" >
 </div>
-The picture source : geeks for geeks 
 
 
 
