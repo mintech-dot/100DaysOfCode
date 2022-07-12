@@ -4,7 +4,7 @@
 - If the target value is smaller ==> continue to search on the left.
 - If the target value is larger ==> continue to search on the right.
 
-(https://ibb.co/XYqhzxs)
+![Binary Search](https://ibb.co/XYqhzxs)
 
 **Algorithm**
 
