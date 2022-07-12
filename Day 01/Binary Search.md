@@ -1,4 +1,4 @@
-**Binary search** is a textbook algorithm based on the idea to compare the target value to the middle element of the array.
+**Binary search** is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half
 
 - If the target value is equal to the middle element ==> we're done.
 - If the target value is smaller ==> continue to search on the left.
