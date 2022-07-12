@@ -5,8 +5,9 @@
 - If the target value is larger ==> continue to search on the right.
 
 <div align="center">
-<img src="https://i.postimg.cc/C5XwfKXd/binary-search.jpg" >
+<img src="https://i.postimg.cc/3wCh8hh5/Binary-Search.png" >
 </div>
+The picture source : geeks for geeks 
 
 **Algorithm**
 
