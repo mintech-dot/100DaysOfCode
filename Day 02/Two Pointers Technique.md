@@ -4,25 +4,5 @@
 
 - Squares of a Sorted Array : Given an integer array `nums` sorted in **non-decreasing** order, return _an array of **the squares of each number** sorted in non-decreasing order_.
 
-**- Solution :**
-
-```
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
-var sortedSquares = function(nums) {
-    
-    for (i = 0 ; i < nums.length ; i++){
-
-        nums[i] *= nums[i];
-    }
-    
-    return nums.sort(function(a, b) {
-        return a - b;
-    });
-
-};
-```
 
 
